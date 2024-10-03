@@ -1,12 +1,10 @@
 # Toxic Comment Classification
-### Group Project for MSDS621 Machine Learning at University of San Francisco
+### Group Project Members 
 
-### Group Member
-Shivee Singh  
-Neha Tevathia  
-Mengting (Joyce) Chang  
-Xinran(Grace) Zhang  
-Tianqi Wang  
+Abhishek Kumar (abhishek.eee21@iitg.ac.in) (group leader) <br>
+Ishant Rohilla  (i.rohilla@iitg.ac.in) <br>
+Shubham Jaiswal (shubham.jaiswal@iitg.ac.in) <br>
+Rohit Raj Kohli (rohit.kohli@iitg.ac.in) <br>
 
 ### Table of Content
 - Dataset Overview
@@ -14,10 +12,9 @@ Tianqi Wang
 - Model Fitting 
 - Results
 
-![alt text](https://github.com/tianqwang/MSDS621-Final-Project/blob/master/image/Power-In-Positivity.jpg?raw=true)
 
 ### Dataset Overview
-The threat of abuse and harassment online prevent many people from expressing themselves and make them give up on seeking different opinions. In the meantime, platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments. Therefore, Kaggle started this competition with the Conversation AI team, a research initiative founded by Jigsaw and Google. The competition could be found here: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+The threat of abuse and harassment online prevent many people from expressing themselves and make them give up on seeking different opinions. In the meantime, platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.
 
 As a group of students with great interests in Natural Language Processing, as well as making online discussion more productive and respectful, we determined to work on this project and aim to build a model that is capable of detecting different types of toxicity like threats, obsenity, insults, and identity-based hate. 
 
